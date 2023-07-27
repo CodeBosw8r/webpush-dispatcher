@@ -1,0 +1,17 @@
+{
+    "name": "webpush-dispatcher",
+    "version": "1.0.0",
+    "description": "Web Push Dispatcher",
+    "main": "server.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CodeBosw8r/webpush-dispatcher.git"
+    },
+    "author": "Erik Hoogeboom",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "log-timestamp": "^0.3.0",
+        "node-fetch": "^3.3.1",
+        "web-push": "^3.6.3"
+    }
+}
